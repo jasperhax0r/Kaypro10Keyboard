@@ -35,7 +35,7 @@ All files are in the root of the repository.
 | `KayproKeyboard.png` | KiCad 3D render of the board |
 | `keyboard support.stl` | 3D printable switch support plate |
 | `main.py` | MicroPython firmware for the Raspberry Pi Pico |
-| `PXL_20260531_22427528.jpg` | Photo of the working prototype |
+| `PXL_20260531_222427528.jpg` | Photo of the working prototype |
 
 ---
 
