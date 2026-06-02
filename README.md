@@ -6,7 +6,7 @@ A modern replacement keyboard for the Kaypro 10 that fits the original case, usi
 
 *KiCad 3D render of the PCB*
 
-![Prototype Working](PXL_20260531_22427528.jpg)
+![Prototype Working](PXL_20260531_222427528.jpg)
 
 *Prototype board installed and working*
 
