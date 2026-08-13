@@ -1,0 +1,13 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\KayproKeyboard\KayproKeyboard-F_Cu.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\KayproKeyboard\KayproKeyboard-B_Cu.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\KayproKeyboard\KayproKeyboard-F_Paste.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\KayproKeyboard\KayproKeyboard-B_Paste.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\KayproKeyboard\KayproKeyboard-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\KayproKeyboard\KayproKeyboard-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\KayproKeyboard\KayproKeyboard-F_Mask.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\KayproKeyboard\KayproKeyboard-B_Mask.gbr'.
+Plotted to 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\KayproKeyboard\KayproKeyboard-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Jasper\Desktop\Projects\Kaypro10\3D Prints and PCBs\KayproKeyboard\KayproKeyboard-job.gbrjob'.
+Info: Done.

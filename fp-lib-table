@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "bsslevelshift") (type "KiCad") (uri "C:/Users/Jasper/Downloads/Logic_Level_Bidirectional/bsslevelshift.pretty") (options "") (descr ""))
+)
